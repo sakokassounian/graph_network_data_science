@@ -7,3 +7,7 @@ Here I use their codes and expand on it visually and adding explanatory summarie
 The plan is to prepare python and Cypher-python interfaced notebooked for resources such as: 
 1. Chapters 8,9,10 of the book: Graph Powered Machine Learning written by Alessandro Negro
 2. Academic papers such as: GOTCHA! Network-based Fraud Detection for Social Security Fraud by Van Vlasselaer et, al. 2014  
+
+It's intresting how graph based Machine learning seriosuly died out even Andrew Ng stopped working on it, maybe this was one his last papers on the domain. Andrhttps://scholar.google.com/citations?view_op=view_citation&hl=en&user=mG4imMEAAAAJ&citation_for_view=mG4imMEAAAAJ:2KloaMYe4IUC. 
+
+One useful set of concepts is TDA: Topological data analysis where it studies surfaces in different dimentions. Graphs are technically are surfaces and alot of mathematical topological technics can also be implemented and can be considered as explainable algorithm for regularised industries such as banking or heathcare. 
