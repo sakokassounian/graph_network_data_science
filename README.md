@@ -8,7 +8,7 @@ This repository is inspired by the book *Modern Graph Theory Algorithms with Pyt
 
 In this project, I **expand on their code examples**, add **visualizations**, and provide **summarized explanations** drawn both from the book and from **external research sources**.
 
----
+
 
 ### 💭 Reflections on Graph Machine Learning
 
@@ -16,7 +16,7 @@ It's interesting how graph-based machine learning has somewhat faded from the sp
 
 > [On Spectral Clustering: Analysis and an Algorithm](https://www.andrewng.org/publications/on-spectral-clustering-analysis-and-an-algorithm/)
 
----
+
 
 
 ### 🌀 Future Directions: TDA & Explainability
@@ -31,7 +31,6 @@ I am planning also to build a hands-on, well-documented, and visually enriched s
    * *GOTCHA! Network-based Fraud Detection for Social Security Fraud*
      *(Van Vlasselaer et al., 2014)*
 
----
 
 
 
