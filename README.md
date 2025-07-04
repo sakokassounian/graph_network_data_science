@@ -10,28 +10,4 @@ In this project, I **expand on their code examples**, add **visualizations**, an
 
 
 
-### 💭 Reflections on Graph Machine Learning
-
-It's interesting how graph-based machine learning has somewhat faded from the spotlight — even **Andrew Ng** hasn't published much in this domain lately. One of his last major contributions in this area might have been:
-
-> [On Spectral Clustering: Analysis and an Algorithm](https://www.andrewng.org/publications/on-spectral-clustering-analysis-and-an-algorithm/)
-
-
-
-
-### 🌀 Future Directions: TDA & Explainability
-
-One powerful but underutilized set of tools is **Topological Data Analysis (TDA)** — the study of shapes, surfaces, and their properties across dimensions. Since **graphs can be treated as topological spaces**, many techniques from algebraic topology (e.g., **persistent homology**) can be adapted for use in **interpretable machine learning**, particularly in **regulated industries** like **banking** and **healthcare**.
-
-I am planning also to build a hands-on, well-documented, and visually enriched set of Jupyter Notebooks and Cypher-Python interfaces based on:
-
-1. **Chapters 8, 9, and 10** of the book *Graph-Powered Machine Learning* by **Alessandro Negro**
-2. **Academic papers**, such as:
-
-   * *GOTCHA! Network-based Fraud Detection for Social Security Fraud*
-     *(Van Vlasselaer et al., 2014)*
-
-
-
-
 
